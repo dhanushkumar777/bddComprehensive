@@ -1,0 +1,477 @@
+[INFO ] 2022-07-29 17:47:05.674 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 17:47:05.703 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 17:47:05.704 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 17:47:05.969 [main] LogsUtil - Hovering on Menu Our Commitment
+[INFO ] 2022-07-29 17:47:18.266 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 17:47:18.266 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 17:47:26.929 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 17:47:26.929 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 17:47:26.930 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 17:47:29.163 [main] LogsUtil - clicked on facebook icon
+[INFO ] 2022-07-29 17:47:29.169 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 17:47:29.170 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 17:47:36.130 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 17:47:36.130 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 17:47:36.131 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 17:47:36.744 [main] LogsUtil - Clicked on Coupons and Rewards
+[ERROR] 2022-07-29 17:47:38.213 [main] LogsUtil - Verification failed
+[INFO ] 2022-07-29 17:47:38.213 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 17:47:38.214 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 17:47:46.451 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 17:47:46.452 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 17:47:46.452 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 17:47:49.802 [main] LogsUtil - Searched a Product
+[INFO ] 2022-07-29 17:47:49.803 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 17:47:50.301 [main] LogsUtil - Product selected
+[INFO ] 2022-07-29 17:48:03.184 [main] LogsUtil - Retailers found
+[INFO ] 2022-07-29 17:48:03.185 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 17:48:03.185 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 17:48:09.701 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 17:48:09.701 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 17:48:09.701 [main] LogsUtil - Fetched Tide url
+[WARN ] 2022-07-29 17:48:10.035 [main] LogsUtil - Hovering on Shop 
+[INFO ] 2022-07-29 17:48:11.963 [main] LogsUtil - Clicked on pacs
+[ERROR] 2022-07-29 17:48:17.998 [main] LogsUtil - Verification failed
+[INFO ] 2022-07-29 17:48:17.998 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 17:48:17.998 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 17:48:26.001 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 17:48:26.001 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 17:48:26.002 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 17:48:28.268 [main] LogsUtil - Clicked on Register Button
+[INFO ] 2022-07-29 17:48:28.548 [main] LogsUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 17:48:39.418 [main] LogsUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 17:48:39.419 [main] LogsUtil - Signup Successfully done
+[INFO ] 2022-07-29 17:48:39.419 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 17:48:39.419 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 17:48:44.895 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 17:48:44.896 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 17:48:44.896 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 17:48:45.282 [main] LogsUtil - Scrolled for makeup
+[INFO ] 2022-07-29 17:48:46.572 [main] LogsUtil - Click on Learn More
+[INFO ] 2022-07-29 17:48:49.228 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 17:48:49.228 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 17:48:56.108 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 17:48:56.109 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 17:48:56.109 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 17:49:00.960 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 17:49:24.039 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 17:49:24.040 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 21:24:31.980 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 21:24:32.011 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 21:24:32.012 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 21:24:32.278 [main] LogsUtil - Hovering on Menu Our Commitment
+[INFO ] 2022-07-29 21:24:44.651 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 21:24:44.652 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 21:24:55.468 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 21:24:55.469 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 21:24:55.470 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 21:24:56.489 [main] LogsUtil - clicked on live chat
+[INFO ] 2022-07-29 21:24:56.489 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 21:24:56.489 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 21:25:04.527 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 21:25:04.528 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 21:25:04.529 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 21:25:05.312 [main] LogsUtil - Clicked on Coupons and Rewards
+[ERROR] 2022-07-29 21:25:06.722 [main] LogsUtil - Verification failed
+[INFO ] 2022-07-29 21:25:06.723 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 21:25:06.724 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 21:25:12.565 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 21:25:12.566 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 21:25:12.567 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 21:25:24.863 [main] LogsUtil - List of Products displayed
+[INFO ] 2022-07-29 21:25:45.039 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 21:25:45.039 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 21:43:18.159 [main] LogsUtil - Setting Up Browser
+[INFO ] 2022-07-29 21:43:18.190 [main] LogsUtil - Started chrome browser
+[INFO ] 2022-07-29 21:43:18.191 [main] LogsUtil - Fetched Tide url
+[INFO ] 2022-07-29 21:43:23.612 [main] LogsUtil - clicked on Contact Us
+[INFO ] 2022-07-29 21:43:46.778 [main] LogsUtil - Closed browser
+[INFO ] 2022-07-29 21:43:46.779 [main] LogsUtil - Finished Extent Report
+[INFO ] 2022-07-29 22:33:45.586 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-29 22:33:45.653 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-29 22:33:45.657 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-29 22:33:45.950 [main] LogUtil - Hovering on Menu Our Commitment
+[INFO ] 2022-07-29 22:33:58.282 [main] LogUtil - Closed browser
+[INFO ] 2022-07-29 22:33:58.282 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-29 22:34:05.189 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-29 22:34:05.189 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-29 22:34:05.190 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-29 22:34:06.273 [main] LogUtil - clicked on live chat
+[INFO ] 2022-07-29 22:34:06.274 [main] LogUtil - Closed browser
+[INFO ] 2022-07-29 22:34:06.274 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-29 22:34:11.941 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-29 22:34:11.942 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-29 22:34:11.942 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-29 22:34:12.572 [main] LogUtil - Clicked on Coupons and Rewards
+[ERROR] 2022-07-29 22:34:14.742 [main] LogUtil - Verification failed
+[INFO ] 2022-07-29 22:34:14.742 [main] LogUtil - Closed browser
+[INFO ] 2022-07-29 22:34:14.743 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-29 22:34:20.193 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-29 22:34:20.194 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-29 22:34:20.196 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-29 22:34:21.905 [main] LogUtil - Scrolled for new
+[INFO ] 2022-07-29 22:34:23.267 [main] LogUtil - Closed browser
+[INFO ] 2022-07-29 22:34:23.268 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-29 22:34:30.204 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-29 22:34:30.205 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-29 22:34:30.205 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-29 22:34:33.675 [main] LogUtil - Searched a Product
+[INFO ] 2022-07-29 22:34:33.677 [main] LogUtil - List of Products displayed
+[INFO ] 2022-07-29 22:34:33.801 [main] LogUtil - Product selected
+[INFO ] 2022-07-29 22:34:46.629 [main] LogUtil - Retailers found
+[INFO ] 2022-07-29 22:34:46.630 [main] LogUtil - Closed browser
+[INFO ] 2022-07-29 22:34:46.630 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-29 22:34:55.229 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-29 22:34:55.230 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-29 22:34:55.232 [main] LogUtil - Fetched Tide url
+[WARN ] 2022-07-29 22:34:55.507 [main] LogUtil - Hovering on Shop 
+[INFO ] 2022-07-29 22:34:57.659 [main] LogUtil - Clicked on pacs
+[ERROR] 2022-07-29 22:35:03.321 [main] LogUtil - Verification failed
+[INFO ] 2022-07-29 22:35:03.321 [main] LogUtil - Closed browser
+[INFO ] 2022-07-29 22:35:03.321 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-29 22:35:09.079 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-29 22:35:09.079 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-29 22:35:09.080 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-29 22:35:10.648 [main] LogUtil - Clicked on Register Button
+[INFO ] 2022-07-29 22:35:10.912 [main] LogUtil - Clicked on Signup Button
+[INFO ] 2022-07-29 22:35:22.356 [main] LogUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-29 22:35:22.357 [main] LogUtil - Signup Successfully done
+[INFO ] 2022-07-29 22:35:22.358 [main] LogUtil - Closed browser
+[INFO ] 2022-07-29 22:35:22.358 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-29 22:35:29.114 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-29 22:35:29.115 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-29 22:35:29.115 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-29 22:35:34.223 [main] LogUtil - clicked on bounce
+[INFO ] 2022-07-29 22:35:57.374 [main] LogUtil - Closed browser
+[INFO ] 2022-07-29 22:35:57.375 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:00:46.547 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:00:46.559 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:00:46.560 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:00:51.286 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:00:51.287 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:00:51.287 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:00:52.230 [main] LogUtil - clicked on live chat
+[INFO ] 2022-07-30 05:00:52.231 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:00:52.231 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:00:53.299 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:00:53.299 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:00:57.071 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:00:57.072 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:00:57.073 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:01:03.024 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:01:03.025 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:01:03.025 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:01:03.834 [main] LogUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-30 05:01:04.185 [main] LogUtil - Click on Save Now
+[INFO ] 2022-07-30 05:01:09.819 [main] LogUtil - Verified text
+[INFO ] 2022-07-30 05:01:09.820 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:01:09.821 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:01:10.452 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:01:10.452 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:01:16.720 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:01:16.720 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:01:16.721 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:01:23.580 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:01:23.581 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:01:23.581 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:01:23.951 [main] LogUtil - Scrolled for new
+[INFO ] 2022-07-30 05:01:25.736 [main] LogUtil - Click on Learn More
+[INFO ] 2022-07-30 05:01:26.250 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:01:26.250 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:01:26.899 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:01:26.899 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:01:32.666 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:01:32.667 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:01:32.667 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:01:40.178 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:01:40.179 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:01:40.179 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:01:43.170 [main] LogUtil - Searched a Product
+[INFO ] 2022-07-30 05:01:43.170 [main] LogUtil - List of Products displayed
+[INFO ] 2022-07-30 05:01:43.678 [main] LogUtil - Product selected
+[INFO ] 2022-07-30 05:01:56.465 [main] LogUtil - Retailers found
+[INFO ] 2022-07-30 05:01:56.465 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:01:56.465 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:01:56.937 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:01:56.938 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:02:02.870 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:02:02.870 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:02:02.871 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:02:09.332 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:02:09.333 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:02:09.333 [main] LogUtil - Fetched Tide url
+[WARN ] 2022-07-30 05:02:09.540 [main] LogUtil - Hovering on Shop 
+[INFO ] 2022-07-30 05:02:11.352 [main] LogUtil - Clicked on pacs
+[ERROR] 2022-07-30 05:02:14.159 [main] LogUtil - Verification failed
+[INFO ] 2022-07-30 05:02:14.159 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:02:14.159 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:02:14.569 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:02:14.570 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:02:19.800 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:02:19.800 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:02:19.801 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:02:25.015 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:02:25.015 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:02:25.015 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:02:27.036 [main] LogUtil - Clicked on Register Button
+[INFO ] 2022-07-30 05:02:27.248 [main] LogUtil - Clicked on Signup Button
+[INFO ] 2022-07-30 05:02:36.774 [main] LogUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-30 05:02:36.775 [main] LogUtil - Signup Successfully done
+[INFO ] 2022-07-30 05:02:36.775 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:02:36.775 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:02:37.425 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:02:37.425 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:02:43.240 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:02:43.240 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:02:43.240 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:02:50.103 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:02:50.104 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:02:50.104 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:02:50.105 [main] LogUtil - Clicked on Register Button
+[INFO ] 2022-07-30 05:02:51.625 [main] LogUtil - clicked on live chat
+[INFO ] 2022-07-30 05:02:51.625 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:02:51.626 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:02:52.083 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:02:52.083 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:02:58.286 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:02:58.286 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:02:58.286 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:03:06.359 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:03:06.359 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:03:06.359 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:03:11.389 [main] LogUtil - clicked on bounce
+[INFO ] 2022-07-30 05:03:34.492 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:03:34.492 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:03:34.935 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:03:34.935 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:03:40.579 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:03:40.579 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:03:40.579 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:03:45.817 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:03:45.817 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:03:45.817 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:03:46.089 [main] LogUtil - Hovering on Menu Our Commitment
+[INFO ] 2022-07-30 05:03:58.719 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:03:58.719 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:03:59.208 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:03:59.208 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:07:32.239 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:07:32.260 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:07:32.261 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:07:40.161 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:07:40.162 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:07:40.162 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:07:42.640 [main] LogUtil - clicked on live chat
+[INFO ] 2022-07-30 05:07:42.641 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:07:42.641 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:07:43.952 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:07:43.952 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:07:51.196 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:07:51.196 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:07:51.197 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:07:57.454 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:07:57.455 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:07:57.455 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:07:57.950 [main] LogUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-30 05:07:59.530 [main] LogUtil - Click on Save Now
+[INFO ] 2022-07-30 05:08:05.898 [main] LogUtil - Verified text
+[INFO ] 2022-07-30 05:08:05.902 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:08:05.902 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:08:06.866 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:08:06.866 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:08:14.760 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:08:14.761 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:08:14.762 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:08:24.042 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:08:24.043 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:08:24.043 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:08:25.007 [main] LogUtil - Scrolled for new
+[INFO ] 2022-07-30 05:08:26.314 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:08:26.314 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:08:26.973 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:08:26.973 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:08:36.558 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:08:36.559 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:08:36.560 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:08:47.238 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:08:47.239 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:08:47.239 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:08:51.191 [main] LogUtil - Searched a Product
+[INFO ] 2022-07-30 05:08:51.194 [main] LogUtil - List of Products displayed
+[INFO ] 2022-07-30 05:08:51.373 [main] LogUtil - Product selected
+[INFO ] 2022-07-30 05:09:04.149 [main] LogUtil - Retailers found
+[INFO ] 2022-07-30 05:09:04.150 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:09:04.150 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:09:04.972 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:09:04.972 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:09:12.145 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:09:12.146 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:09:12.146 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:09:18.338 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:09:18.338 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:09:18.339 [main] LogUtil - Fetched Tide url
+[WARN ] 2022-07-30 05:09:18.800 [main] LogUtil - Hovering on Shop 
+[INFO ] 2022-07-30 05:09:21.920 [main] LogUtil - Clicked on pacs
+[ERROR] 2022-07-30 05:09:26.961 [main] LogUtil - Verification failed
+[INFO ] 2022-07-30 05:09:26.961 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:09:26.962 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:09:27.707 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:09:27.707 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:09:36.515 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:09:36.516 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:09:36.516 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:09:51.252 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:09:51.253 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:09:51.253 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:09:53.527 [main] LogUtil - Clicked on Register Button
+[INFO ] 2022-07-30 05:09:54.042 [main] LogUtil - Clicked on Signup Button
+[INFO ] 2022-07-30 05:10:05.693 [main] LogUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-30 05:10:05.694 [main] LogUtil - Signup Successfully done
+[INFO ] 2022-07-30 05:10:05.695 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:10:05.695 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:10:06.679 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:10:06.679 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:10:13.794 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:10:13.795 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:10:13.795 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:10:23.383 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:10:23.383 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:10:23.384 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:10:23.384 [main] LogUtil - Clicked on Register Button
+[INFO ] 2022-07-30 05:10:25.677 [main] LogUtil - clicked on live chat
+[INFO ] 2022-07-30 05:10:25.677 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:10:25.677 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:10:26.342 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:10:26.343 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:10:32.643 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:10:32.644 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:10:32.644 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:10:42.086 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:10:42.086 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:10:42.086 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:10:46.461 [main] LogUtil - clicked on bounce
+[INFO ] 2022-07-30 05:11:09.600 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:11:09.600 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:11:10.522 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:11:10.522 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:11:16.474 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:11:16.474 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:11:16.475 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:11:25.110 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:11:25.110 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:11:25.110 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:11:25.426 [main] LogUtil - Hovering on Menu Our Commitment
+[INFO ] 2022-07-30 05:11:37.946 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:11:37.946 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:11:38.845 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:11:38.845 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:39:22.791 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:39:22.826 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:39:22.827 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:39:29.210 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:39:29.211 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:39:29.211 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:39:29.511 [main] LogUtil - Hovering on Menu Our Commitment
+[INFO ] 2022-07-30 05:39:42.671 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:39:42.671 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:39:44.285 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:39:44.286 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:39:53.085 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:39:53.086 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:39:53.087 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:39:59.860 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:39:59.861 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:39:59.861 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:40:02.385 [main] LogUtil - clicked on live chat
+[INFO ] 2022-07-30 05:40:02.386 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:40:02.387 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:40:02.992 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:40:02.993 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:40:10.728 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:40:10.729 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:40:10.729 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:40:18.937 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:40:18.938 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:40:18.938 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:40:19.823 [main] LogUtil - Clicked on Coupons and Rewards
+[INFO ] 2022-07-30 05:40:20.360 [main] LogUtil - Click on Save Now
+[INFO ] 2022-07-30 05:40:28.144 [main] LogUtil - Verified text
+[INFO ] 2022-07-30 05:40:28.145 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:40:28.145 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:40:29.178 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:40:29.178 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:40:34.769 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:40:34.770 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:40:34.770 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:40:44.020 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:40:44.021 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:40:44.021 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:40:44.573 [main] LogUtil - Scrolled for new
+[INFO ] 2022-07-30 05:40:46.183 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:40:46.184 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:40:46.843 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:40:46.843 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:40:54.356 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:40:54.356 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:40:54.357 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:41:03.150 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:41:03.152 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:41:03.152 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:41:07.188 [main] LogUtil - Searched a Product
+[INFO ] 2022-07-30 05:41:07.189 [main] LogUtil - List of Products displayed
+[INFO ] 2022-07-30 05:41:09.222 [main] LogUtil - Product selected
+[INFO ] 2022-07-30 05:41:22.075 [main] LogUtil - Retailers found
+[INFO ] 2022-07-30 05:41:22.075 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:41:22.076 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:41:23.297 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:41:23.297 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:41:29.024 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:41:29.025 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:41:29.026 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:41:36.746 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:41:36.747 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:41:36.747 [main] LogUtil - Fetched Tide url
+[WARN ] 2022-07-30 05:41:37.062 [main] LogUtil - Hovering on Shop 
+[INFO ] 2022-07-30 05:41:44.967 [main] LogUtil - Clicked on pacs
+[ERROR] 2022-07-30 05:41:45.433 [main] LogUtil - Verification failed
+[INFO ] 2022-07-30 05:41:45.434 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:41:45.434 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:41:46.251 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:41:46.252 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:41:53.778 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:41:53.778 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:41:53.779 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:42:02.680 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:42:02.681 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:42:02.682 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:42:04.407 [main] LogUtil - Clicked on Register Button
+[INFO ] 2022-07-30 05:42:04.843 [main] LogUtil - Clicked on Signup Button
+[INFO ] 2022-07-30 05:42:16.852 [main] LogUtil - Name, email and password Inserted Successfully
+[INFO ] 2022-07-30 05:42:16.853 [main] LogUtil - Signup Successfully done
+[INFO ] 2022-07-30 05:42:16.853 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:42:16.853 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:42:17.978 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:42:17.978 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:42:25.009 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:42:25.009 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:42:25.010 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:42:33.799 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:42:33.800 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:42:33.800 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:42:33.802 [main] LogUtil - Clicked on header
+[INFO ] 2022-07-30 05:42:36.147 [main] LogUtil - clicked
+[INFO ] 2022-07-30 05:42:36.147 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:42:36.148 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:42:36.865 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:42:36.865 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:42:44.245 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:42:44.247 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:42:44.247 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:42:54.782 [main] LogUtil - Setting Up Browser
+[INFO ] 2022-07-30 05:42:54.783 [main] LogUtil - Started chrome browser
+[INFO ] 2022-07-30 05:42:54.783 [main] LogUtil - Fetched Tide url
+[INFO ] 2022-07-30 05:43:00.400 [main] LogUtil - clicked on bounce
+[INFO ] 2022-07-30 05:43:23.494 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:43:23.494 [main] LogUtil - Finished Extent Report
+[INFO ] 2022-07-30 05:43:24.458 [main] LogUtil - Closed browser
+[INFO ] 2022-07-30 05:43:24.458 [main] LogUtil - Finished Extent Report
